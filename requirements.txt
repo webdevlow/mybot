@@ -1,0 +1,4 @@
+pyQiwiP2P==1.0.1
+pyTelegramBotAPI==3.8.2
+requests==2.18.4
+
